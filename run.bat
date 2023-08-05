@@ -1,0 +1,1 @@
+pytest -s -v -m "sanity" --html=C:\Users\ashis\PycharmProjects\pythonProject9\testCases\jhg.html --browser chrome
